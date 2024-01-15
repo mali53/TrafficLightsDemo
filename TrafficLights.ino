@@ -203,7 +203,7 @@ void setup()
 
 
 }
-
+// Innovative feature added
 void activatePedestrianSignal() {
   // Code to activate the pedestrian signal
   Serial.println("Pedestrian Detected! Activate Signal.");
